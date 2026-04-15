@@ -1,0 +1,24 @@
+# Python Environments
+venv/
+env/
+.env
+
+# Python compilation caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook configurations
+.ipynb_checkpoints/
+ipython_config.py
+
+# Local data caches and outputs
+*.csv
+*.dat
+*.out
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
