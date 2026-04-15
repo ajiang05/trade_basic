@@ -1,4 +1,4 @@
-# SAC Trade Analyst Tool
+# Trade Analyst Tool
 
 ## Overview
 This is just a basic overview. This repository contains a foundational algorithmic trading and security analysis project. The primary objective of this system is to ingest historical market data, apply quantitative mathematical models (such as moving average crossovers), and output actionable trading recommendations. It is designed to act as an analytical assistant rather than an automated execution bot.
